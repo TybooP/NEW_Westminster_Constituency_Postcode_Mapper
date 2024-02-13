@@ -1,6 +1,6 @@
 ## Westminster Constituency Postcode Mapper
 
-This repository contains all the necessary code and data to update your list of postcodes to match the new Westminster constituency boundaries that will be used for the upcoming general election. The data includes every postcode along with its corresponding constituency and GSS code. Additionally, there's a Jupyter Notebook (`postcode_mapper.ipynb`) containing the code to add the information of constituency name and GSS code to the postcodes.
+This repository contains all the necessary code and data to update your list of postcodes to match the new Westminster constituency boundaries that will be used for the upcoming general election. The data includes every postcode along with its corresponding constituency and GSS code. Additionally, there's a Jupyter Notebook (`postcode_to_pconinfo.ipynb`) containing the code to add the information of constituency name and GSS code to the postcodes.
 
 ## How to Use
 
