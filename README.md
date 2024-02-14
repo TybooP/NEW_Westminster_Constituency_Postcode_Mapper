@@ -8,7 +8,7 @@ Follow these steps to run the code:
 
 1. **Download the Files**: Create a folder on your computer to store these files, which will be the top right corner and a zip file. You can download the files in this GitHub repository manually or using the command line with `git clone`. If you haven't used GitHub before, you may need to initialize SSH keys before running the `git clone` command. 
 
-2. **Install python and pandas to your environment
+2. Install python and pandas to your environment
 
 3. **Move the Files**: Once you have downloaded the files, move them to the folder you created earlier.
 
